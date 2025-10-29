@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199418423027",
+    "project_id": "syncwell-app",
+    "storage_bucket": "syncwell-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199418423027:android:c964ba07a5ade595027986",
+        "android_client_info": {
+          "package_name": "com.example.basket_ball_conuter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRRQPaxXMBZFN3fWSiiiArFoqSwjdr-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
